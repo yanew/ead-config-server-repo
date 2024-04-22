@@ -40,9 +40,9 @@ ead:
     exchange:
       userEvent: ead.userevent
 
- authuser:
-   refreshscope:
-     name: Yane Teste
+authuser:
+  refreshscope:
+    name: Yane Teste
 
 management:
   endpoint:
