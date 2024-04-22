@@ -45,7 +45,7 @@ authuser:
     name: Yane Teste De Novo
 
 management:
-  endpoint:
+  endpoints:
     web:
       exposure:
         include:
