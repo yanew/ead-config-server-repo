@@ -2,6 +2,9 @@ ead:
   serviceRegistry:
     username: admin
     password: 'admin'
+  auth:
+    jwtSecret: PBfX4s4ADLsCnO1b3cBtx=L29VmKCtVlcVbHF/ftQeRotB-Rx3y6MizB4TPseos-do0X8oVknbiNtrEh/yfC=tsMoejYWcVEKwBh/k?!dMq?5MPnbrEKh2=0JYZqaN?P1YedM/poWX!LZ/DIhPtZC8uvlAFkX0fUYlX-YQU!2l-sJTIVmyqPL7Ct3HuDk-44Y9n-UD5PC9KV!q6ohfNzu-SVl-uhuEs6v2yfv0t7pwl0iyXxzyUHFmvi0n1J7L9I3tYivKgnEb8bi10IbjGLUMlV3a-EbDo7/LvdnciHPCH5T1t=40d?QCUTtqPVe6FCRkpJ9KDr8w2w3K!YTqrDo6Dmok8iQQkSxlCG8SgSFHcVQ7vhLkZzqbk?LLUh1AQQhRm3bPo!jH8ClWibmJLeYe=6UZs6EH?kGIUO=Dj!Q!Nf2PNhPca98?1YB/nvzVKP911y5OJQDNsWGR/6AS/dKe?SZKAT7!lGTIj2q3yaSxYZTlgcvgK/TVGnrGhcIn8Q
+    jwtExpiration: 14400000  
 
 eureka:
   client:
